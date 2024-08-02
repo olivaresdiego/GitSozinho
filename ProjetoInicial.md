@@ -1,1 +1,2 @@
-Tudo o que for desenvolvido neste projeto será inserido aqui
+Tudo o que for desenvolvido neste projeto será inserido aqui.
+
