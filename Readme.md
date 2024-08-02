@@ -5,4 +5,4 @@ Comecei a usar o GitHub porque dois amigos me disseram que é importante colocar
 
 Hoje é o segundo dia que estou dedicando a estudar e usar a plataforma e caso você veja este arquivo e tenha alguma sugestão é só me falar.
 
-Inseri uma página HTML e estou inserindo algumas informações e fazendo alterações.
+Criei uma página HTML e estou inserindo algumas informações e fazendo alterações.
